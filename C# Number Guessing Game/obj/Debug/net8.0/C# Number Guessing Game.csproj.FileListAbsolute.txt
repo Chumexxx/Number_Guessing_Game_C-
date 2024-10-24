@@ -1,0 +1,14 @@
+C:\Users\Obasi Chukwuemeka\Desktop\Tech\C#\C# Number Guessing Game\C# Number Guessing Game\bin\Debug\net8.0\C# Number Guessing Game.exe
+C:\Users\Obasi Chukwuemeka\Desktop\Tech\C#\C# Number Guessing Game\C# Number Guessing Game\bin\Debug\net8.0\C# Number Guessing Game.deps.json
+C:\Users\Obasi Chukwuemeka\Desktop\Tech\C#\C# Number Guessing Game\C# Number Guessing Game\bin\Debug\net8.0\C# Number Guessing Game.runtimeconfig.json
+C:\Users\Obasi Chukwuemeka\Desktop\Tech\C#\C# Number Guessing Game\C# Number Guessing Game\bin\Debug\net8.0\C# Number Guessing Game.dll
+C:\Users\Obasi Chukwuemeka\Desktop\Tech\C#\C# Number Guessing Game\C# Number Guessing Game\bin\Debug\net8.0\C# Number Guessing Game.pdb
+C:\Users\Obasi Chukwuemeka\Desktop\Tech\C#\C# Number Guessing Game\C# Number Guessing Game\obj\Debug\net8.0\C# Number Guessing Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Obasi Chukwuemeka\Desktop\Tech\C#\C# Number Guessing Game\C# Number Guessing Game\obj\Debug\net8.0\C# Number Guessing Game.AssemblyInfoInputs.cache
+C:\Users\Obasi Chukwuemeka\Desktop\Tech\C#\C# Number Guessing Game\C# Number Guessing Game\obj\Debug\net8.0\C# Number Guessing Game.AssemblyInfo.cs
+C:\Users\Obasi Chukwuemeka\Desktop\Tech\C#\C# Number Guessing Game\C# Number Guessing Game\obj\Debug\net8.0\C# Number Guessing Game.csproj.CoreCompileInputs.cache
+C:\Users\Obasi Chukwuemeka\Desktop\Tech\C#\C# Number Guessing Game\C# Number Guessing Game\obj\Debug\net8.0\C# Number Guessing Game.dll
+C:\Users\Obasi Chukwuemeka\Desktop\Tech\C#\C# Number Guessing Game\C# Number Guessing Game\obj\Debug\net8.0\refint\C# Number Guessing Game.dll
+C:\Users\Obasi Chukwuemeka\Desktop\Tech\C#\C# Number Guessing Game\C# Number Guessing Game\obj\Debug\net8.0\C# Number Guessing Game.pdb
+C:\Users\Obasi Chukwuemeka\Desktop\Tech\C#\C# Number Guessing Game\C# Number Guessing Game\obj\Debug\net8.0\C# Number Guessing Game.genruntimeconfig.cache
+C:\Users\Obasi Chukwuemeka\Desktop\Tech\C#\C# Number Guessing Game\C# Number Guessing Game\obj\Debug\net8.0\ref\C# Number Guessing Game.dll
